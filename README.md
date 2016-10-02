@@ -3,7 +3,7 @@
  # 1.this is plate detection project based on ssd(single shot detection)
 
  # 2.I have relese the model and some data to test,you can take the model from:http://pan.baidu.com/s/1eSdqHVk
- #   if the link is not work ,please attach me :724620509@qq.com
+ #   if the link is not work ,please contact me :724620509@qq.com
 
  # 3.I hope you have setup the caffe ,if you have not ,please do as :http://caffe.berkeleyvision.org/installation.html
 
