@@ -12,3 +12,5 @@
  # 5.what is more,you have to modeify some path in ssd_plate.ipynb.such as :model_def,model_weights ,etc.
  
  # 6.if you want to know the details about how to train the model.please see at:https://arxiv.org/abs/1512.02325 
+
+ ![image](https://github.com/hyh21521038/ssd-plate_detection/blob/master/result/1.png)
