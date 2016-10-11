@@ -1548,8 +1548,8 @@ layer {
       output_name_prefix: "comp4_det_test_"
       output_format: "VOC"
       label_map_file: "data/plate/labelmap_plate.prototxt"
-      name_size_file: "data/plate/test_name_size.txt"
-      num_test_image: 792
+      name_size_file: "/home/huangyuhui/ssd-plate_detection/test_name_size.txt"
+      num_test_image: 1
     }
     code_type: CENTER_SIZE
     keep_top_k: 200
