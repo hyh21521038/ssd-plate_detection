@@ -8,7 +8,7 @@
 
  4.this project is based on jupyter notebook ,if you have not install jupyter ,you could change it into .py
  
- 5.what is more,you have to modeify some path in ssd_plate.ipynb.such as :model_def,model_weights ,etc.
+ 5.what is more,you have to modeify some path in ssd_plate.ipynb and deploy.prorotxt .such as:name_size_file,model_def,model_weights ,etc.
  
  6.if you want to know the details about how to train the model.please see at:https://arxiv.org/abs/1512.02325 
 
